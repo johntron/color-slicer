@@ -18,6 +18,6 @@
         "url": "https://github.com/instructure/color-slicer/issues"
     },
     "dependencies": {
-        "harthur/color-convert": "503685a2995b74ca16cea510f150ba671a4b613b"
+        "johntron/color-convert": "0.5.2"
     }
 }
